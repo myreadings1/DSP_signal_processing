@@ -5,3 +5,4 @@
 - http://mathworld.wolfram.com/ComplexNumber.html
 - https://www2.clarku.edu/~djoyce/complex/mult.html
 - Tan inverse (http://mathworld.wolfram.com/InverseTangent.html)
+- To achieve high throughput, we need fast hardware rather than using QAM modulation.. With high speed hw we can modulate with low-error modulation and achieve high throughput at the same time.
